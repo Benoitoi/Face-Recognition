@@ -1,0 +1,5 @@
+﻿  Face Recognition.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2005: _main already defined in Face Recognition.obj
+opencv_world410d.lib(opencv_world410d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
